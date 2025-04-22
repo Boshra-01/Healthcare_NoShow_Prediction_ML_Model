@@ -6,3 +6,6 @@ This project aims to predict whether a patient will show up for a scheduled medi
 
 ## About the dataset:
 The pre-processed cleaned dataset includes Exploratory Data Analysis (EDA).
+
+## Power BI Dashboard: 
+This interactive Power BI dashboard analyzes patient no-show trends in a hospital, helping identify patterns and potential causes. 
